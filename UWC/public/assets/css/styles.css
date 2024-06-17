@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  transition: 0.2s linear;
+}
+
+:root {
+  --color: #ff7f50;
+  --border: 5px solid #ff7f50;
+  --gray: #57606f;
+  --bg: rgba(255, 255, 255, 0.3);
+}
+
+a{
+  text-decoration: none;
+}
+
+h5
+{
+  color:#57606f;
+}
+
+.small-text{
+  font-weight: 600;
+font-size: 10px;
+}
+
+.my-circle{
+  float: left;
+  margin-right: 10px;
+}
+
+.circle1 {
+  background: linear-gradient(180deg, #FFBF08 -50%, #FFEA5F 182.35%);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  
+}
+
+.bell1 {
+  margin: auto;
+}
+
+.circle2 {
+  background: linear-gradient(180deg, #048A42 -50%, #50E680 182.35%);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  display: flex;
+}
+
+.circle3 {
+  background: linear-gradient(180deg, #3F24F7 -50%, #8E7FFE 182.35%);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  display: flex;
+}
+
+.circle4 {
+  background: #FFFFFF;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  display: flex;
+}
+
+.row {
+  justify-content: space-around;
+}
+/*.my-navbar {
+  border-bottom: var(--border);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: var(--color);
+  font-weight: bold;
+  border-bottom: 5px solid transparent;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  border-bottom: var(--border);
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.user-btn {
+  color: var(--color);
+}
+
+.dropdown-item {
+  color: var(--color);
+}*/
